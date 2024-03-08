@@ -1,10 +1,22 @@
-# Welcome to the nguyenkhanhquy source code repository 👋
+# Welcome to the nguyenkhanhquy source code repository
+
+Hello there! 👋 I'm Nguyen Khanh Quy, an information technology student specializing in software technology, and I am a technology enthusiast. I have a passion for creating innovative solutions and exploring new technologies to address real-world problems.
 
 ## Source Code Repositories
 
 - **[View the Source Code repositories](https://github.com/nguyenkhanhquy?tab=repositories)**
 
-## Projects at University
+## 💻 Technologies & Tools
+
+- **Languages:** Java, JavaScript, Python
+- **Web Development:** HTML, CSS, React
+- **Backend:** Spring Boot
+- **Database:** MySQL
+- **Version Control:** Git
+- **DevOps:** Docker
+- **Other:** RESTful APIs
+
+## 🚀 Projects at University
 
 Welcome to my list of projects at university. Below is the repository of each project.
 
@@ -20,8 +32,10 @@ Welcome to my list of projects at university. Below is the repository of each pr
 
 1. [Hotel Management](https://github.com/nguyenkhanhquy/hotel-management) - Final term project of the "Windows Programming" course
 
-## Follow nguyenkhanhquy on Social Media
+## 🌐 Follow nguyenkhanhquy on Social Media
 
 - [Facebook - minh.trung424](https://www.facebook.com/minh.trung424/)
 - [Instagram - minh.trung424](https://www.instagram.com/minh.trung424/)
 - [LinkedIn - quynguyen424](https://www.linkedin.com/in/quynguyen424/)
+
+Let's connect and collaborate on exciting projects! 🚀
