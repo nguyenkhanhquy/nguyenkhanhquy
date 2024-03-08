@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to the nguyenkhanhquy source code repository 👋
 
-<!--
-**nguyenkhanhquy/nguyenkhanhquy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Source Code Repositories
 
-Here are some ideas to get you started:
+- **[View the Source Code repositories](https://github.com/nguyenkhanhquy?tab=repositories)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects at University
+
+Welcome to my list of projects at university. Below is the repository of each project.
+
+1. [Jacobin Store](https://github.com/nguyenkhanhquy/jacobin-store) - Final term project of the "Web Programming" course
+
+1. [Personal Website](https://github.com/nguyenkhanhquy/my-web-app) - Mid term project of the "Web Programming" course
+
+1. [Movie Catalog Management](https://github.com/nguyenkhanhquy/movie-catalog-management) - Final term project of the "Data Structure and Algorithms" course
+
+1. [Warehouse Management](https://github.com/nguyenkhanhquy/warehouse-management) - Final term project of the "Object Oriented Programming" course
+
+1. [Motorbike Store Chain Management](https://github.com/nguyenkhanhquy/motorbike-store-chain-management) - Final term project of the "Database Management System" course
+
+1. [Hotel Management](https://github.com/nguyenkhanhquy/hotel-management) - Final term project of the "Windows Programming" course
+
+## Follow nguyenkhanhquy on Social Media
+
+- [Facebook - minh.trung424](https://www.facebook.com/minh.trung424/)
+- [Instagram - minh.trung424](https://www.instagram.com/minh.trung424/)
+- [LinkedIn - quynguyen424](https://www.linkedin.com/in/quynguyen424/)
