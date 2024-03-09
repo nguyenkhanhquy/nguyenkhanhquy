@@ -34,8 +34,8 @@ Welcome to my list of projects at university. Below is the repository of each pr
 
 ## 🌐 Follow nguyenkhanhquy on Social Media
 
-- **[Facebook - minh.trung424]**(https://www.facebook.com/minh.trung424/)
-- **[Instagram - minh.trung424]**(https://www.instagram.com/minh.trung424/)
-- **[LinkedIn - quynguyen424]**(https://www.linkedin.com/in/quynguyen424/)
+- **[Facebook - minh.trung424](https://www.facebook.com/minh.trung424/)**
+- **[Instagram - minh.trung424](https://www.instagram.com/minh.trung424/)**
+- **[LinkedIn - quynguyen424](https://www.linkedin.com/in/quynguyen424/)**
 
 Let's connect and collaborate on exciting projects! 🚀
