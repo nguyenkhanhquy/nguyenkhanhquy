@@ -9,9 +9,8 @@ Hello there! 👋 I'm Nguyen Khanh Quy, an information technology student specia
 ## 💻 Technologies & Tools
 
 - **Languages:** Java, JavaScript, Python, C#, C++
-- **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
+- **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio
 - **Web Development:** HTML, CSS, Bootstrap
-- **Mobile Development:** Android
 - **Backend:** Spring Boot
 - **Database:** MySQL, SQL Server
 - **Version Control:** Git
