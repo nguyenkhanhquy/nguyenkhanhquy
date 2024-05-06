@@ -32,6 +32,8 @@ Welcome to my list of projects at university. Below is the repository of each pr
 1. **[Motorbike Store Chain Management](https://github.com/nguyenkhanhquy/motorbike-store-chain-management)** - Final term project of the "Database Management System" course
 
 1. **[Hotel Management](https://github.com/nguyenkhanhquy/hotel-management)** - Final term project of the "Windows Programming" course
+   
+1. **[N-Puzzle](https://github.com/nguyenkhanhquy/n-puzzle)** - Final term project of the "Artificial Intelligence" course
 
 ## 🌐 Follow nguyenkhanhquy on Social Media
 
