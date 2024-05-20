@@ -25,9 +25,9 @@ Welcome to my list of projects at university. Below is the repository of each pr
 
 1. **[Personal Website](https://github.com/nguyenkhanhquy/my-web-app)** - Mid term project of the "Web Programming" course
 
-1. **[Book Store API](https://github.com/nguyenkhanhquy/bookstore-api)** - Final term project of the "Mobile Programming" course - Book Store API
+1. **[Book Store API](https://github.com/nguyenkhanhquy/bookstore-api)** - Final term project of the "Mobile Programming" course
 
-1. **[Book Store APP](https://github.com/nguyenkhanhquy/bookstore-app)** - Final term project of the "Mobile Programming" course - Book Store APP
+1. **[Book Store APP](https://github.com/nguyenkhanhquy/bookstore-app)** - Final term project of the "Mobile Programming" course
 
 1. **[Movie Catalog Management](https://github.com/nguyenkhanhquy/movie-catalog-management)** - Final term project of the "Data Structure and Algorithms" course
 
