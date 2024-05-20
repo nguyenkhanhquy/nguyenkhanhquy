@@ -23,6 +23,8 @@ Welcome to my list of projects at university. Below is the repository of each pr
 
 1. **[Jacobin Store](https://github.com/nguyenkhanhquy/jacobin-store)** - Final term project of the "Web Programming" course
 
+1. **[Jacobin Store Spring Boot](https://github.com/nguyenkhanhquy/jacobin-store-spring-boot)** - Final term project of the "Object Oriented Software Engineering" course
+
 1. **[Personal Website](https://github.com/nguyenkhanhquy/my-web-app)** - Mid term project of the "Web Programming" course
 
 1. **[Book Store API](https://github.com/nguyenkhanhquy/bookstore-api)** - Final term project of the "Mobile Programming" course
