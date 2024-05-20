@@ -9,7 +9,7 @@ Hello there! 👋 I'm Nguyen Khanh Quy, an information technology student specia
 ## 💻 Technologies & Tools
 
 - **Languages:** Java, Python, C#, C++
-- **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio
+- **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
 - **Web Development:** HTML, CSS, Bootstrap
 - **Backend:** Spring Boot
 - **Database:** MySQL, SQL Server
@@ -24,6 +24,10 @@ Welcome to my list of projects at university. Below is the repository of each pr
 1. **[Jacobin Store](https://github.com/nguyenkhanhquy/jacobin-store)** - Final term project of the "Web Programming" course
 
 1. **[Personal Website](https://github.com/nguyenkhanhquy/my-web-app)** - Mid term project of the "Web Programming" course
+
+1. **[Book Store API](https://github.com/nguyenkhanhquy/bookstore-api)** - Final term project of the "Mobile Programming" course - Book Store API
+
+1. **[Book Store APP](https://github.com/nguyenkhanhquy/bookstore-app)** - Final term project of the "Mobile Programming" course - Book Store APP
 
 1. **[Movie Catalog Management](https://github.com/nguyenkhanhquy/movie-catalog-management)** - Final term project of the "Data Structure and Algorithms" course
 
