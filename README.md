@@ -8,11 +8,11 @@ Hello there! 👋 I'm Nguyen Khanh Quy, an information technology student specia
 
 ## 💻 Technologies & Tools
 
-- **Languages:** Java, Python, C#, C++
+- **Programming Languages:** Java, JavaScript & TypeScript
 - **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
 - **Web Development:** HTML, CSS, Bootstrap
 - **Backend:** Spring Boot
-- **Database:** MySQL, SQL Server
+- **Database Management Systems:** PostgreSQL, MySQL
 - **Version Control:** Git
 - **DevOps:** Docker
 - **Other:** RESTful APIs
