@@ -8,13 +8,12 @@ Hello there! 👋 I'm Nguyen Khanh Quy, an information technology student specia
 
 ## 💻 Technologies & Tools
 
-- **Programming Languages:** Java, JavaScript & TypeScript
+- **Programming Languages:** Java
 - **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
 - **Web Development:** HTML, CSS, Bootstrap
 - **Backend:** Spring Boot
-- **Database Management Systems:** PostgreSQL, MySQL
+- **Database Management Systems:** MySQL
 - **Version Control:** Git
-- **DevOps:** Docker
 - **Other:** RESTful APIs
 
 ## 🚀 Projects at University
@@ -30,6 +29,8 @@ Welcome to my list of projects at university. Below is the repository of each pr
 1. **[Book Store API](https://github.com/nguyenkhanhquy/bookstore-api)** - Final term project of the "Mobile Programming" course
 
 1. **[Book Store APP](https://github.com/nguyenkhanhquy/bookstore-app)** - Final term project of the "Mobile Programming" course
+
+1. **[Behavioral Design Patterns](https://github.com/nguyenkhanhquy/design-pattern)** - Final term project of the "Software Design Patterns" course
 
 1. **[Movie Catalog Management](https://github.com/nguyenkhanhquy/movie-catalog-management)** - Final term project of the "Data Structure and Algorithms" course
 
