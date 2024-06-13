@@ -14,6 +14,7 @@ Hello there! 👋 I'm Nguyen Khanh Quy, an information technology student specia
 - **Backend:** Spring Boot
 - **Database Management Systems:** MySQL
 - **Version Control:** Git
+- **API Testing**: Postman
 - **Other:** RESTful APIs
 
 ## 🚀 Projects at University
