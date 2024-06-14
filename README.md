@@ -43,6 +43,8 @@ Welcome to my list of projects at university. Below is the repository of each pr
    
 1. **[N-Puzzle](https://github.com/nguyenkhanhquy/n-puzzle)** - Final term project of the "Artificial Intelligence" course
 
+1. **[Kessoku Band](https://github.com/nguyenkhanhquy/kessoku-band)** - Band Website - Kessoku Band
+
 ## 🌐 Follow me on Social Media
 
 - **[Facebook - minh.trung424](https://www.facebook.com/minh.trung424/)**
