@@ -15,6 +15,7 @@ Hello there! 👋 I'm Nguyen Khanh Quy, an information technology student specia
 - **Database Management Systems:** MySQL
 - **Version Control:** Git
 - **API Testing**: Postman
+- **Deployment**: AWS, Heroku
 - **Other:** RESTful APIs
 
 ## 🚀 Projects at University
