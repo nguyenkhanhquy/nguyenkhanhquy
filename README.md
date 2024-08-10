@@ -10,7 +10,8 @@ Hello there! 👋 I'm Nguyen Khanh Quy, an information technology student specia
 
 - **Programming Languages:** Java
 - **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
-- **Web Development:** HTML, CSS, Bootstrap
+- **Web Development:** HTML, CSS, JavaScript, Bootstrap
+- **Frontend:** React
 - **Backend:** Spring Boot
 - **Database Management Systems:** MySQL
 - **Version Control:** Git
