@@ -48,7 +48,7 @@ Welcome to my list of projects at university. Below is the repository of each pr
 1. **[Kessoku Band](https://github.com/nguyenkhanhquy/kessoku-band)** - Band Website - Kessoku Band
 
 ## 👨‍💻 LeetCode
-- **[LeetCode Solutions](https://github.com/nguyenkhanhquy/leetcode-solutions)**
+- **[LeetCode Solutions](https://github.com/nguyenkhanhquy/leetcode-solutions)** - This repository contains my solutions to problems on LeetCode
 
 ## 🌐 Follow me on Social Media
 
