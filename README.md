@@ -1,6 +1,6 @@
 # Welcome to the nguyenkhanhquy source code repository
 
-Hello there! 👋 I'm Nguyen Khanh Quy, an information technology student specializing in software technology, and I am a technology enthusiast. I have a passion for creating innovative solutions and exploring new technologies to address real-world problems.
+Hello there! 👋 I'm Nguyen Khanh Quy, an Information Technology student at the HCMC University of Technology and Education. I have a passion for creating innovative solutions and exploring new technologies to address real-world problems.
 
 ## Source Code Repositories
 
