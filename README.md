@@ -11,7 +11,7 @@ Hello there! 👋 I'm Nguyen Khanh Quy, an Information Technology student at the
 - **Programming Languages:** Java
 - **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
 - **Web Development:** HTML, CSS, JavaScript, Bootstrap
-- **Frontend:** React
+- **Frontend:** React, React Native
 - **Backend:** Spring Boot
 - **Database Management Systems:** MySQL
 - **Version Control:** Git
