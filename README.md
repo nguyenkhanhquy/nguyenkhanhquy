@@ -1,6 +1,9 @@
-# Welcome to the nguyenkhanhquy source code repository
+# Hello there! 👋
 
-Hello there! 👋 I'm Nguyen Khanh Quy, an Information Technology student at the HCMC University of Technology and Education. I have a passion for creating innovative solutions and exploring new technologies to address real-world problems.
+[![GitHub followers](https://img.shields.io/github/followers/nguyenkhanhquy.svg?style=social&label=Follow)](https://github.com/nguyenkhanhquy?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nguyenkhanhquy.nguyenkhanhquy)](https://github.com/nguyenkhanhquy)
+
+I'm Nguyen Khanh Quy, an Information Technology student at the HCMC University of Technology and Education. I have a passion for creating innovative solutions and exploring new technologies to address real-world problems.
 
 ## Source Code Repositories
 
@@ -9,46 +12,44 @@ Hello there! 👋 I'm Nguyen Khanh Quy, an Information Technology student at the
 ## 💻 Technologies & Tools
 
 - **Programming Languages:** Java
-- **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
+- **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
 - **Web Development:** HTML, CSS, JavaScript, Bootstrap
-- **Frontend:** React, React Native
-- **Backend:** Spring Boot
+- **Frontend Frameworks:** React, React Native
+- **Backend Framework:** Spring Boot
 - **Database Management Systems:** MySQL
 - **Version Control:** Git
-- **API Testing**: Postman
-- **Deployment**: AWS, Heroku
-- **Other:** RESTful APIs
+- **API Testing:** Postman
+- **Deployment Platforms:** Heroku
 
 ## 🚀 Projects at University
 
-Welcome to my list of projects at university. Below is the repository of each project.
+1. **[Jacobin Store](https://github.com/nguyenkhanhquy/jacobin-store)** - *Final term project of the "Web Programming" course*
 
-1. **[Jacobin Store](https://github.com/nguyenkhanhquy/jacobin-store)** - Final term project of the "Web Programming" course
+1. **[Jacobin Store Spring Boot](https://github.com/nguyenkhanhquy/jacobin-store-spring-boot)** - *Final term project of the "Object Oriented Software Engineering" course*
 
-1. **[Jacobin Store Spring Boot](https://github.com/nguyenkhanhquy/jacobin-store-spring-boot)** - Final term project of the "Object Oriented Software Engineering" course
+1. **[Personal Website](https://github.com/nguyenkhanhquy/my-web-app)** - *Mid term project of the "Web Programming" course*
 
-1. **[Personal Website](https://github.com/nguyenkhanhquy/my-web-app)** - Mid term project of the "Web Programming" course
+1. **[Book Store API](https://github.com/nguyenkhanhquy/bookstore-api)** - *Final term project of the "Mobile Programming" course*
 
-1. **[Book Store API](https://github.com/nguyenkhanhquy/bookstore-api)** - Final term project of the "Mobile Programming" course
+1. **[Book Store APP](https://github.com/nguyenkhanhquy/bookstore-app)** - *Final term project of the "Mobile Programming" course*
 
-1. **[Book Store APP](https://github.com/nguyenkhanhquy/bookstore-app)** - Final term project of the "Mobile Programming" course
+1. **[Behavioral Design Patterns](https://github.com/nguyenkhanhquy/design-pattern)** - *Final term project of the "Software Design Patterns" course*
 
-1. **[Behavioral Design Patterns](https://github.com/nguyenkhanhquy/design-pattern)** - Final term project of the "Software Design Patterns" course
+1. **[Movie Catalog Management](https://github.com/nguyenkhanhquy/movie-catalog-management)** - *Final term project of the "Data Structure and Algorithms" course*
 
-1. **[Movie Catalog Management](https://github.com/nguyenkhanhquy/movie-catalog-management)** - Final term project of the "Data Structure and Algorithms" course
+1. **[Warehouse Management](https://github.com/nguyenkhanhquy/warehouse-management)** - *Final term project of the "Object Oriented Programming" course*
 
-1. **[Warehouse Management](https://github.com/nguyenkhanhquy/warehouse-management)** - Final term project of the "Object Oriented Programming" course
+1. **[Motorbike Store Chain Management](https://github.com/nguyenkhanhquy/motorbike-store-chain-management)** - *Final term project of the "Database Management System" course*
 
-1. **[Motorbike Store Chain Management](https://github.com/nguyenkhanhquy/motorbike-store-chain-management)** - Final term project of the "Database Management System" course
+1. **[Hotel Management](https://github.com/nguyenkhanhquy/hotel-management)** - *Final term project of the "Windows Programming" course*
 
-1. **[Hotel Management](https://github.com/nguyenkhanhquy/hotel-management)** - Final term project of the "Windows Programming" course
-   
-1. **[N-Puzzle](https://github.com/nguyenkhanhquy/n-puzzle)** - Final term project of the "Artificial Intelligence" course
+1. **[N-Puzzle](https://github.com/nguyenkhanhquy/n-puzzle)** - *Final term project of the "Artificial Intelligence" course*
 
-1. **[Kessoku Band](https://github.com/nguyenkhanhquy/kessoku-band)** - Band Website - Kessoku Band
+1. **[Kessoku Band](https://github.com/nguyenkhanhquy/kessoku-band)** - *Band Website - Kessoku Band*
 
 ## 👨‍💻 LeetCode
-- **[LeetCode Solutions](https://github.com/nguyenkhanhquy/leetcode-solutions)** - This repository contains my solutions to problems on LeetCode
+
+- **[LeetCode Solutions](https://github.com/nguyenkhanhquy/leetcode-solutions)** - *This repository contains my solutions to problems on LeetCode*
 
 ## 🌐 Follow me on Social Media
 
