@@ -12,9 +12,9 @@ I'm **Nguyen Khanh Quy**, an Information Technology student at the HCMC Universi
 ## 💻 Technologies & Tools
 
 - **Programming Languages:** Java
-- **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
+- **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
 - **Web Development:** HTML, CSS, JavaScript, Bootstrap
-- **Frontend Frameworks:** React, React Native
+- **Frontend Framework:** React, React Native
 - **Backend Framework:** Spring Boot
 - **Database Management Systems:** MySQL
 - **Version Control:** Git
