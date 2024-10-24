@@ -12,14 +12,11 @@ I'm **Nguyen Khanh Quy**, an Information Technology student at the HCMC Universi
 ## 💻 Technologies & Tools
 
 - **Programming Languages:** Java, JavaScript, TypeScript
-- **IDE:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
-- **Web Development:** HTML, CSS, Bootstrap, Tailwind CSS
-- **Frontend Framework:** React, React Native
-- **Backend Framework:** Spring Boot, Node.js
-- **Database Management Systems:** MySQL, MongoDB
-- **Version Control:** Git
-- **API Testing:** Postman
-- **Deployment Platforms:** Heroku
+- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React, React Native
+- **Backend:** Spring Boot, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, Docker, Postman, Heroku
+- **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
 
 ## 🚀 Projects at University
 
