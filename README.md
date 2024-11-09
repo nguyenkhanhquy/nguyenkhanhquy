@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/nguyenkhanhquy.svg?style=social&label=Follow)](https://github.com/nguyenkhanhquy?tab=followers)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nguyenkhanhquy.nguyenkhanhquy)](https://github.com/nguyenkhanhquy)
 
-I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC University of Technology and Education**. I have a passion for creating innovative solutions and exploring new technologies to address real-world problems
+I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC University of Technology and Education**. I have a passion for creating innovative solutions and exploring new technologies to address real-world problems.
 
 ## Source Code Repositories
 
@@ -11,7 +11,7 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 
 ## 💻 Technologies & Tools
 
-- **Programming Languages:** Java, JavaScript, TypeScript
+- **Programming Languages:** Java, JavaScript
 - **Frontend:** HTML, CSS, React, React Native
 - **Backend:** Spring Boot, Node.js
 - **Databases:** MySQL, MongoDB
