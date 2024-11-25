@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/nguyenkhanhquy.svg?style=social&label=Follow)](https://github.com/nguyenkhanhquy?tab=followers)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nguyenkhanhquy.nguyenkhanhquy)](https://github.com/nguyenkhanhquy)
 
-I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC University of Technology and Education**. I have a passion for creating innovative solutions and exploring new technologies to address real-world problems.
+I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC University of Technology and Education**. I have a passion for creating innovative solutions and exploring new technologies to address real-world problems
 
 ## Source Code Repositories
 
@@ -15,7 +15,7 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 - **Frontend:** HTML, CSS, React, React Native
 - **Backend:** Spring Boot, Node.js
 - **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, Docker, Postman, Heroku
+- **Tools & Platforms:** Git, Docker, Postman, Navicat, Heroku
 - **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
 
 ## 🚀 Projects at University
@@ -23,6 +23,10 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 1. **[Jacobin Store](https://github.com/nguyenkhanhquy/jacobin-store)** - *Final term project of the "Web Programming" course*
 
 1. **[Jacobin Store Spring Boot](https://github.com/nguyenkhanhquy/jacobin-store-spring-boot)** - *Final term project of the "Object Oriented Software Engineering" course*
+
+1. **[Job Portal - Backend](https://github.com/nguyenkhanhquy/jobportal-api)** - *Final term project of the "Modern Technologies Software Engineering" course*
+
+1. **[Job Portal - Frontend](https://github.com/nguyenkhanhquy/jobportal-frontend)** - *Final term project of the "Modern Technologies Software Engineering" course*
 
 1. **[Personal Website](https://github.com/nguyenkhanhquy/my-web-app)** - *Mid term project of the "Web Programming" course*
 
