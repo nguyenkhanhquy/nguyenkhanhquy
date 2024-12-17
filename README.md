@@ -5,7 +5,7 @@
 
 I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC University of Technology and Education**. I have a passion for creating innovative solutions and exploring new technologies to address real-world problems
 
-## Source Code Repositories
+## 🚀 Source Code Repositories
 
 - **[View the Source Code repositories](https://github.com/nguyenkhanhquy?tab=repositories)**
 
@@ -18,7 +18,7 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 - **Tools:** Git, Docker, Postman
 - **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
 
-## 🚀 Projects at University
+## 🎓 Projects at University
 
 1. **[Jacobin Store](https://github.com/nguyenkhanhquy/jacobin-store)** - *Final term project of the "Web Programming" course*
 
