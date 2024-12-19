@@ -18,7 +18,7 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 - **Tools:** Git, Docker, Postman
 - **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
 
-## 🎓 Projects at University
+## 🏫 Projects at University
 
 1. **[Jacobin Store](https://github.com/nguyenkhanhquy/jacobin-store)** - *Final term project of the "Web Programming" course*
 
