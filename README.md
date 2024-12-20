@@ -50,7 +50,7 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 
 ## 👨‍💻 LeetCode
 
-- **[LeetCode Solutions](https://github.com/nguyenkhanhquy/leetcode-solutions)** - *This repository contains my solutions to problems on LeetCode*
+- **[LeetCode Solutions](https://github.com/nguyenkhanhquy/leetcode-solutions)** - *This repository contains my solutions to problems on **LeetCode***
 
 ## 🌐 Follow me on Social Media
 
