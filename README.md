@@ -58,4 +58,4 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 - **[Instagram - minh.trung424](https://www.instagram.com/minh.trung424/)**
 - **[LinkedIn - quynguyen424](https://www.linkedin.com/in/quynguyen424/)**
 
-Let's connect and collaborate on exciting projects! 🚀
+**Let's connect and collaborate on exciting projects!** 🚀
