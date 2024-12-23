@@ -16,7 +16,7 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 - **Backend:** Spring Boot, Node.js
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, Postman
-- **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code, Visual Studio, Android Studio
+- **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code, Android Studio
 
 ## 🏫 Projects at University
 
