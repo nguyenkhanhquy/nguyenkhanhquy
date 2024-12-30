@@ -12,7 +12,7 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 ## 💻 Technologies & Tools
 
 - **Programming Languages:** Java, JavaScript
-- **Frontend:** HTML, CSS, React
+- **Frontend:** React
 - **Backend:** Spring Boot
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, Postman
