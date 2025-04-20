@@ -9,10 +9,6 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 
 - **[View the Source Code repositories](https://github.com/nguyenkhanhquy?tab=repositories)**
 
-## 👨‍💻 LeetCode
-
-- **[LeetCode Solutions](https://github.com/nguyenkhanhquy/leetcode-solutions)** - *This repository contains my solutions to problems on **LeetCode***
-
 ## 💻 Technologies & Tools
 
 - **Programming Languages:** Java, JavaScript
@@ -53,6 +49,10 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 1. **[N-Puzzle](https://github.com/nguyenkhanhquy/n-puzzle)** - *Final term project of the "Artificial Intelligence" course*
 
 1. **[Kessoku Band](https://github.com/nguyenkhanhquy/kessoku-band)** - *Band Website - Kessoku Band*
+
+## 👨‍💻 LeetCode
+
+- **[LeetCode Solutions](https://github.com/nguyenkhanhquy/leetcode-solutions)** - *This repository contains my solutions to problems on **LeetCode***
 
 ## 🌐 Follow me on Social Media
 
