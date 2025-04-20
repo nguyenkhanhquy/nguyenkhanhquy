@@ -14,7 +14,7 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 - **Programming Languages:** Java, JavaScript
 - **Frontend:** React
 - **Backend:** Spring Boot
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, MongoDB, Redis
 - **Tools:** Git, Postman, Docker, Figma
 - **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code
 
