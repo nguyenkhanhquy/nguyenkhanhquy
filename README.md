@@ -20,7 +20,7 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 
 ## 🏫 Projects at University
 
-1. **[InternHub]** - *Thesis*: Coming soon...
+1. **[InternHub](https://github.com/nguyenkhanhquy)** - *Thesis*: Coming soon...
 
 1. **[Jacobin Store](https://github.com/nguyenkhanhquy/jacobin-store)** - *Final term project of the "Web Programming" course*
 
