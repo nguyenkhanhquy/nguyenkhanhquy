@@ -20,6 +20,8 @@ I'm **Nguyen Khanh Quy**, an **Information Technology** student at the **HCMC Un
 
 ## 🏫 Projects at University
 
+1. **[InternHub]** - *Thesis*: Coming soon...
+
 1. **[Jacobin Store](https://github.com/nguyenkhanhquy/jacobin-store)** - *Final term project of the "Web Programming" course*
 
 1. **[Jacobin Store Spring Boot](https://github.com/nguyenkhanhquy/jacobin-store-spring-boot)** - *Final term project of the "Object Oriented Software Engineering" course*
