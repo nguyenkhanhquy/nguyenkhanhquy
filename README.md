@@ -3,8 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/nguyenkhanhquy.svg?style=social&label=Follow)](https://github.com/nguyenkhanhquy?tab=followers)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nguyenkhanhquy.nguyenkhanhquy)](https://github.com/nguyenkhanhquy)
 
-I'm **Nguyen Khanh Quy**, a graduate with a **Bachelor of Engineering in Information Technology** from the **HCMC University of Technology and Education**.  
-I am passionate about creating innovative solutions and exploring new technologies to address real-world problems.
+## 💁‍♂️ About Me
+
+I'm **Nguyen Khanh Quy**, a graduate with a **Bachelor of Engineering in Information Technology** from the **HCMC University of Technology and Education**. I am passionate about creating innovative solutions and exploring new technologies to address real-world problems.
 
 ## 🚀 Source Code Repositories
 
