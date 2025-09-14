@@ -15,7 +15,7 @@ I'm **Nguyen Khanh Quy**, **Bachelor of Engineering (Information Technology)**, 
 
 - **Programming Languages:** Java, JavaScript
 - **Frontend:** React
-- **Backend:** Struts 1, Spring Boot
+- **Backend:** Struts, Spring Boot
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 - **Tools:** Git, Postman, Docker
 - **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code
