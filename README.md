@@ -5,7 +5,7 @@
 
 ## 💁‍♂️ About Me
 
-I'm **Nguyen Khanh Quy**, **Bachelor of Engineering (Information Technology)**, **HCMC University of Technology and Education**. I am passionate about creating innovative solutions and exploring new technologies to address real-world problems.
+I'm **Nguyen Khanh Quy**, **Bachelor of Engineering** (Information Technology), HCMC University of Technology and Education. I am passionate about creating innovative solutions and exploring new technologies to address real-world problems.
 
 ## 🚀 Source Code Repositories
 
