@@ -66,6 +66,6 @@ I'm Nguyen Khanh Quy, Bachelor of Engineering (Information Technology), HCMC Uni
 
 - **[Facebook - minh.trung424](https://www.facebook.com/minh.trung424/)**
 - **[Instagram - minh.trung424](https://www.instagram.com/minh.trung424/)**
-- **[LinkedIn - quynguyen424](https://www.linkedin.com/in/quynguyen424/)**
+- **[LinkedIn - nguyenkhanhquy](https://www.linkedin.com/in/nguyenkhanhquy/)**
 
 **Let's connect and collaborate on exciting projects!** 🚀
