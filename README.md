@@ -16,7 +16,7 @@ I'm Nguyen Khanh Quy, Bachelor of Engineering (Information Technology), HCMC Uni
 - **Programming Languages:** Java, JavaScript
 - **Frontend:** React
 - **Backend:** Struts, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, Redis
 - **Tools:** Git, Postman, Docker
 - **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code
 
