@@ -17,7 +17,7 @@ I'm **Nguyen Khanh Quy**, Bachelor of Engineering in Information Technology from
 - **Frontend:** React
 - **Backend:** Struts, Spring Boot
 - **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, Redis
-- **Tools:** Git, Postman, Docker
+- **Tools:** Git, TortoiseSVN, Postman, Docker
 - **IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code
 
 ## 🏫 Projects at University
